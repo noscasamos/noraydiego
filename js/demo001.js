@@ -73,7 +73,7 @@ sr.reveal('.nuestraBoda2', {
 	sr.reveal('.numeroPerMes', {
 		duration: 3000, //tiempo
 		delay:500,
-		origin: 'left', //origen
+		origin: 'bottom', //origen
 		distance: '200px', //distancia
 		
 
@@ -104,7 +104,7 @@ sr.reveal('.nuestraBoda2', {
 	});
 	sr.reveal('.textoNosCasamos', {
 		duration: 3000, //tiempo
-		delay:1300,
+		delay:1000,
 		origin: 'top', //origen
 		distance: '200px', //distancia
 		
