@@ -62,6 +62,14 @@ sr.reveal('.nuestraBoda2', {
 		
 
 	});
+sr.reveal('.btnWhatsNovios', {
+		duration: 7000, //tiempo
+		delay:500,
+		origin: 'top', //origen
+		distance: '30px', //distancia
+		
+
+	});
 	sr.reveal('.nuestraBoda', {
 		duration: 3000, //tiempo
 		delay:800,
@@ -74,6 +82,22 @@ sr.reveal('.nuestraBoda2', {
 		duration: 3000, //tiempo
 		delay:500,
 		origin: 'bottom', //origen
+		distance: '200px', //distancia
+		
+
+	});
+	sr.reveal('.textoasistencia', {
+		duration: 3000, //tiempo
+		delay:500,
+		origin: 'bottom', //origen
+		distance: '200px', //distancia
+		
+
+	});
+	sr.reveal('#numero', {
+		duration: 3000, //tiempo
+		delay:800,
+		origin: 'left', //origen
 		distance: '200px', //distancia
 		
 
