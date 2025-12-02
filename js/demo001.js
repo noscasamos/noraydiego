@@ -449,6 +449,15 @@ sr.reveal('.textoSeccion3', {
 
 
 	});
+			sr.reveal('#icono', {
+		duration: 3500, //tiempo
+		delay:800,
+		origin: 'top', //origen
+		scale: .99,
+		distance: '-0' //distancia
+
+
+	}); 
 			sr.reveal('.banco', {
 		duration: 2000, //tiempo
 		origin: 'bottom', //origen
